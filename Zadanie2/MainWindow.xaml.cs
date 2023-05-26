@@ -39,7 +39,7 @@ namespace Zadanie2
                 return x / 5;
             }
             else
-            {
+            { 
                 return x + 1;
             }
         }

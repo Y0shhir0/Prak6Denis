@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Background="Aqua">
     <Grid>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A:" VerticalAlignment="Top" Margin="10,25,0,0" Height="35" Width="173" FontSize="18" />
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A:" VerticalAlignment="Top" Margin="10,25,0,0" Height="35 " Width="173" FontSize="18" />
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="B:" VerticalAlignment="Top" Margin="10,65,0,0" FontSize="18"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="C:" VerticalAlignment="Top" Margin="10,101,0,0" FontSize="18" RenderTransformOrigin="0.629,2.124"/>
         <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" x:Name="Vvod" Text="" VerticalAlignment="Top" Width="235" FontSize="18" Margin="338,25,0,0"/>

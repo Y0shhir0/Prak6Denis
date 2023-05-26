@@ -43,7 +43,7 @@ namespace Zadanie3
                 return 0;
             }
             else if (disc == 0)
-            {
+            { 
                 return 1;
 
             }

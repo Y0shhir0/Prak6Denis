@@ -46,7 +46,7 @@ namespace Prak6Denis
             Otvet.Text = $"Макс значение:{maxValue}\n" +
                 $"Точка: {maxp}";
         }
-        private double F(double x)
+        private double F(double x) 
         {
             return Math.Pow(x, 3) - Math.Sin(x);
         }
